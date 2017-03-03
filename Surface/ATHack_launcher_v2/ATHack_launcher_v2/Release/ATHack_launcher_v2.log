@@ -1,0 +1,30 @@
+﻿Build started 3/3/2017 3:09:39 PM.
+     1>Project "C:\Users\Mo\documents\visual studio 2013\Projects\ATHack_launcher_v2\ATHack_launcher_v2\ATHack_launcher_v2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\opencv_3_0\build\x86\vc12\..\..\include /IC:\opencv\opencv_3_0\build\x86\vc12\..\..\include\opencv /IC:\opencv\opencv_3_0\build\x86\vc12\..\..\include\opencv2 /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>Source.cpp(162): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(168): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(239): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(261): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(262): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(264): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(265): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(267): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(268): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(269): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(270): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(271): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(272): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(273): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Source.cpp(274): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mo\documents\visual studio 2013\Projects\ATHack_launcher_v2\Release\ATHack_launcher_v2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\opencv_3_0\build\x86\vc12\lib /LIBPATH:C:\opencvLibs opencv_ts300.lib opencv_world300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mo\documents\visual studio 2013\Projects\ATHack_launcher_v2\Release\ATHack_launcher_v2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mo\documents\visual studio 2013\Projects\ATHack_launcher_v2\Release\ATHack_launcher_v2.lib" /MACHINE:X86 /SAFESEH Release\Source.obj
+         Generating code
+         Finished generating code
+         ATHack_launcher_v2.vcxproj -> C:\Users\Mo\documents\visual studio 2013\Projects\ATHack_launcher_v2\Release\ATHack_launcher_v2.exe
+     1>Done Building Project "C:\Users\Mo\documents\visual studio 2013\Projects\ATHack_launcher_v2\ATHack_launcher_v2\ATHack_launcher_v2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.58
